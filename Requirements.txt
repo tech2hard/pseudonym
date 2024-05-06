@@ -1,0 +1,8 @@
+gradio
+openai
+#AZURE_OPENAI_API_KEY="857e5a871cc245c393437261f5a2a00c"
+#AZURE_OPENAI_ENDPOINT="https://hackathons.openai.azure.com/"
+#Please install python 3.11, gradio and openai pluings
+#start python application from VS Code and click on the URL it gives 
+# on URL you will see Language drop down, type of pseudonym you like and details about pseudonym
+# click on generate button to see the pseudonym gets generated
